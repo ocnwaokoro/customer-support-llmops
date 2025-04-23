@@ -1,0 +1,4 @@
+[tool.poetry]
+name = "customer-support-llmops"
+version = "0.1.0"
+description = "Production-ready customer support LLM pipeline"

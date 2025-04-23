@@ -1,0 +1,27 @@
+[
+  {
+    "id": "article-001",
+    "title": "How to Reset Your Password",
+    "content": "To reset your password, go to the login page and click on 'Forgot Password'. Enter your email address and follow the instructions sent to your inbox. The reset link is valid for 24 hours."
+  },
+  {
+    "id": "article-002",
+    "title": "Subscription Plans and Pricing",
+    "content": "We offer three subscription plans: Basic ($9.99/month), Pro ($19.99/month), and Enterprise ($49.99/month). The Basic plan includes 10GB storage, the Pro plan includes 50GB storage and priority support, and the Enterprise plan includes unlimited storage, priority support, and advanced analytics."
+  },
+  {
+    "id": "article-003",
+    "title": "How to Cancel Your Subscription",
+    "content": "To cancel your subscription, log in to your account and go to Settings > Billing > Subscription. Click on 'Cancel Subscription' and follow the prompts. Please note that you'll still have access until the end of your current billing period."
+  },
+  {
+    "id": "article-004",
+    "title": "Troubleshooting Login Issues",
+    "content": "If you're having trouble logging in, please try the following: 1) Clear your browser cache and cookies, 2) Make sure you're using the correct email and password, 3) Check if caps lock is on, 4) Try using a different browser. If the issue persists, contact our support team."
+  },
+  {
+    "id": "article-005",
+    "title": "Data Security and Privacy",
+    "content": "We take your data security seriously. All data is encrypted at rest and in transit using industry-standard encryption protocols. We do not sell your personal information to third parties. For more details, please review our Privacy Policy."
+  }
+]
