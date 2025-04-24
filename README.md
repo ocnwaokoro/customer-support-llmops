@@ -6,8 +6,6 @@ A production-ready LLMOps implementation for customer support with proper monito
 
 This project demonstrates key LLMOps (Large Language Model Operations) concepts by implementing a customer support assistant with robust infrastructure for monitoring, evaluation, and feedback collection. It serves as a practical example of how to operationalize LLMs in a production environment.
 
-![LLMOps Architecture](https://mermaid.live/img/pako:eNptkc1qwzAQhF9F7MmF5gV8MNiJm0uhkPYW91CtZZvYP0KWQwjh3avYTkpvehs-ZnZGu0ftelSsPypYDB24kXAHbetXGkHr-ituBLXBXUFwOl0FhXmRdB_eSOcttLWiDEG1cA0mzNo46qxf1Vx2jmQwZYnDG5xz8CtMHsSkLLccUf8Bx3wAaZ_zioFrUDAS0YULVOBbHvGf-JvSgfshlmjdZK0GD3-aP9t44HCZwTExYXbq9HLPGaYM-qMxb811F1GFU3yN_r8ZrXv0c1yfqpjTITZbeO6Zk2_sx-whTo-55is3X7l4nJ8nCVdY30nL5Ptc0ntRJrOi7Pv-QdYPvO6v07v6wb87tZ_RpskuP_NB2MyjkoxPOWJaUQ_6BywunKg:type=png)
-
 ## Features
 
 - **Prompt Management and Versioning**: Track and version prompt templates
